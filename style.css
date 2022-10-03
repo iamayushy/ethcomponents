@@ -1,0 +1,7 @@
+.tomato {
+  background-color: red;
+}
+.logo{
+  background: url('/public/vite.svg') no-repeat;
+  height: 80px;
+}
